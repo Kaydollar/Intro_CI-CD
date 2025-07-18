@@ -1,0 +1,20 @@
+{
+  "name": "intro_ci-cd",
+  "version": "1.0.0",
+  "description": "Intoduction to CI/CD Project darey.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaydollar/Intro_CI-CD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaydollar/Intro_CI-CD/issues"
+  },
+  "homepage": "https://github.com/Kaydollar/Intro_CI-CD#readme"
+}
